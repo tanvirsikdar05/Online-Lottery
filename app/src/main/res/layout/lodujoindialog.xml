@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:cardCornerRadius="8dp"
+    android:layout_gravity="center"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/waitmsg"
+                android:textSize="19sp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:textColor="@color/black_four"
+                android:gravity="center"
+                android:fontFamily="@font/nunito_sans_semibold"
+                android:layout_marginTop="10dp"/>
+            <TextView
+                android:id="@+id/loduprice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" price: 120"
+                android:textSize="19sp"
+                android:fontFamily="@font/nunito_sans_semibold"
+                android:textColor="@color/black_four"
+                android:gravity="center"
+                android:layout_marginTop="10dp"/>
+
+            <EditText
+                android:id="@+id/edt_loduusername"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:layout_margin="20dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:hint="enter lodu username"
+                android:background="@drawable/edittxt_bg"/>
+            <TextView
+                android:id="@+id/btnconfrm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_gravity="center"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:textColor="@color/white"
+                android:text="CONFIRM"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:fontFamily="@font/nunito_sans_bold"
+                android:gravity="center"
+                android:layout_marginStart="25dp"
+                android:layout_marginEnd="25dp"
+                android:background="@drawable/button_bg"
+                android:layout_marginBottom="25dp"/>
+
+        </LinearLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>

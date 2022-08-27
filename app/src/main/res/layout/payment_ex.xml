@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardElevation="5dp"
+    app:cardCornerRadius="5dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="4dp">
+        <TextView
+            android:id="@+id/tvnumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:text="01726750916"
+            android:textColor="@color/black"
+            android:fontFamily="@font/nunito_sans_bold"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+        <TextView
+            android:id="@+id/tvdate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/nunito_sans_semibold"
+            android:textIsSelectable="true"
+            android:text="22 oct 22,11:00 AM"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvnumber" />
+
+        <TextView
+            android:id="@+id/tvbankname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bkash"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/nunito_sans_bold"
+            android:textIsSelectable="true"
+            app:layout_constraintEnd_toStartOf="@+id/tvprice"
+            app:layout_constraintStart_toEndOf="@+id/tvnumber"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvstatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="requested"
+            android:textIsSelectable="true"
+            android:fontFamily="@font/nunito_sans_semibold"
+            android:layout_marginTop="3dp"
+            app:layout_constraintEnd_toStartOf="@+id/tvprice"
+            app:layout_constraintStart_toEndOf="@+id/tvnumber"
+            app:layout_constraintTop_toBottomOf="@+id/tvbankname" />
+
+        <TextView
+            android:id="@+id/tvtype"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add money"
+            android:textIsSelectable="true"
+            android:layout_marginTop="3dp"
+            android:fontFamily="@font/nunito_sans_semibold"
+            android:layout_marginBottom="3dp"
+            app:layout_constraintEnd_toStartOf="@+id/tvprice"
+            app:layout_constraintStart_toEndOf="@+id/tvnumber"
+            app:layout_constraintTop_toBottomOf="@+id/tvstatus" />
+
+        <TextView
+            android:id="@+id/tvprice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="15dp"
+            android:text="50"
+            android:textColor="@color/black"
+            android:fontFamily="@font/nunito_sans_bold"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

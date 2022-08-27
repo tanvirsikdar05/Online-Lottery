@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sikka</string>
+    <string name="wallet_txt">Wallet</string>
+    <string name="histroy_txt">Setting</string>
+    <string name="home_txt">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lottery_tricket">lottery tricket</string>
+    <string name="buy">BUY</string>
+    <string name="deposite">Deposite</string>
+    <string name="roulesone">- deposite করার সর্বোচ্চ ২০ মিনিটের ভীতরে একাউন্ট  টাকা যোগ হয়ে যাবে . \n - deposit এ কোনো সমস্যা হলে payment এর স্ক্রিনশট ও আইডি ফোন নাম্বার সহ support মেসেজ দিতে হবে. \n
+        - কোনো user যদি fake deposite বা withdraw request করে তাহলে তার একাউন্ট ব্যান করা হবে। </string>
+    <string name="waitmsg">খেলা শুরুর ১০ মিনিট আগে রুম কোড দেয়া হবে।</string>
+    <string name="deposite_n_deposit_payment_support_n_user_fake_deposite_withdraw_request">- deposite করার সর্বোচ্চ ২০ মিনিটের ভীতরে একাউন্ট টাকা যোগ হয়ে যাবে . \n - deposit এ কোনো সমস্যা হলে payment এর স্ক্রিনশট ও আইডি ফোন নাম্বার সহ support মেসেজ দিতে হবে. \n - কোনো user যদি fake deposite বা withdraw request করে তাহলে তার একাউন্ট ব্যান করা হবে।</string>
+    <string name="roulestwo">- প্রতিটি লটারি কেনার সময় অটোমেটিক একটি টিকেট নাম্বার দেয়া হবে। \n - একটি লটারি যত খুশি ততোবার কিনা যাবে ,প্রতিবার ভিন্ন ভিন্ন টিকেট নাম্বার দেয়া হবে। \n - লটারি উইনার অটোমেটিক কম্পিউটার দ্বারা নির্ধারণ করা হবে এতে মানুষের কোনো হাত থাকবে না</string>
+    <string name="roulesthree">- লুডু খেলার জন্য লুডু কিং এর সঠিক username দিতে হবে. \n - খেলা শুরুর ১০ মিনিট আগে ম্যাচ এ গিয়ে room কোড গ্রহন করতে হবে. \n - কোনো প্লেয়ার যদি সঠিক সময়ে ম্যাচ এ join না করে তার জন্য অতিরিক্ত ৫ মিনিট অপেক্ষা করা হবে। ৫ মিনিট অতিক্রম করার পর প্রতিপক্ষ কে উইনার হিসেবে ম্যাচ fee এর ৫০% দেয়া হবে। বাকি ৫০% না join করা প্লেয়ার কে রিফান্ড করা হবে. \n - বাংলাদেশ এর সবচেয়ে বড় ও বিশ্বস্ত অনলাইন লটারি প্লাটফর্ম.</string>
+
+</resources>

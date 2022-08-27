@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#FFFCF3"
+    app:cardCornerRadius="8dp"
+    android:layout_gravity="center"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+       <pl.droidsonroids.gif.GifImageView
+           android:layout_width="wrap_content"
+           android:layout_height="120dp"
+           android:background="#FFFCF3"
+           android:src="@drawable/trofianim" />
+
+        <TextView
+            android:id="@+id/tvwinnermsg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Winner: tanvir sikdar"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:textSize="19sp"
+            android:fontFamily="@font/nunito_sans_bold"
+            android:layout_marginBottom="5dp"
+            android:textColor="@color/green"/>
+        <TextView
+            android:id="@+id/tvok"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textColor="@color/white"
+            android:text="ok"
+            android:fontFamily="@font/nunito_sans_bold"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:background="@drawable/button_bg"
+            android:layout_marginBottom="25dp"/>
+
+    </LinearLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>

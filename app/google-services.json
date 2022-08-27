@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710450693269",
+    "firebase_url": "https://sikka-e5bb7-default-rtdb.firebaseio.com",
+    "project_id": "sikka-e5bb7",
+    "storage_bucket": "sikka-e5bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710450693269:android:9d1eaa7c47f6546146c79c",
+        "android_client_info": {
+          "package_name": "com.lottery.sikka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710450693269-unlrsg45c6crmlbm1tcgo0a6qiq0lsis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lottery.sikka",
+            "certificate_hash": "c899aca86caeaf42f5896e9d362127c9101c1605"
+          }
+        },
+        {
+          "client_id": "710450693269-36an7oo9h4not1vi5n8vpp3m4odququ2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdb-8Qc5E2EjG1ouJLmc5ARvzevNEXskU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710450693269-36an7oo9h4not1vi5n8vpp3m4odququ2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

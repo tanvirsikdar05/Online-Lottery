@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/addblance_dialog.xml" value="0.1345" />
+        <entry key="app/src/main/res/drawable/button_bg.xml" value="0.145" />
+        <entry key="app/src/main/res/drawable/dialog_background.xml" value="0.1345" />
+        <entry key="app/src/main/res/drawable/edittxt_bg.xml" value="0.145" />
+        <entry key="app/src/main/res/drawable/failed_dialog.xml" value="0.145" />
+        <entry key="app/src/main/res/drawable/histroy_icon.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/home_icon.xml" value="0.20092592592592592" />
+        <entry key="app/src/main/res/drawable/in_from_left.xml" value="0.19722222222222222" />
+        <entry key="app/src/main/res/drawable/in_from_right.xml" value="0.19722222222222222" />
+        <entry key="app/src/main/res/drawable/lodubg.xml" value="0.1135" />
+        <entry key="app/src/main/res/drawable/logouticon.xml" value="0.1855" />
+        <entry key="app/src/main/res/drawable/notification_icon.xml" value="0.3018386108273749" />
+        <entry key="app/src/main/res/drawable/settingicon.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/wallet_icon.xml" value="0.20092592592592592" />
+        <entry key="app/src/main/res/drawable/walleticon.xml" value="0.176" />
+        <entry key="app/src/main/res/layout/_more_lottery.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_lodu_four.xml" value="0.2675213675213675" />
+        <entry key="app/src/main/res/layout/activity_loginact.xml" value="0.3260416666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_notification.xml" value="0.25555555555555554" />
+        <entry key="app/src/main/res/layout/addblance_dialog.xml" value="0.24453125" />
+        <entry key="app/src/main/res/layout/buyinglottery_exview.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/create_account.xml" value="0.2898148148148148" />
+        <entry key="app/src/main/res/layout/deposite_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/failed_dialog.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/fragment_buying_ticket.xml" value="0.2675213675213675" />
+        <entry key="app/src/main/res/layout/fragment_deposite.xml" value="0.24453125" />
+        <entry key="app/src/main/res/layout/fragment_histroy.xml" value="0.2875" />
+        <entry key="app/src/main/res/layout/fragment_request.xml" value="0.2675213675213675" />
+        <entry key="app/src/main/res/layout/fragment_withdraw.xml" value="0.23359375" />
+        <entry key="app/src/main/res/layout/home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/home_tolbar.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/intercode_menually.xml" value="0.3260416666666667" />
+        <entry key="app/src/main/res/layout/loding_dialog.xml" value="0.24453125" />
+        <entry key="app/src/main/res/layout/lodu.xml" value="0.3951841359773371" />
+        <entry key="app/src/main/res/layout/lodu_actvity.xml" value="0.2675213675213675" />
+        <entry key="app/src/main/res/layout/lodujoindialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/lottery_view.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/lotteryconfirmdialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/notification_recyclerview_ex.xml" value="0.28888888888888886" />
+        <entry key="app/src/main/res/layout/payment_ex.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/prograssdilog.xml" value="0.2898148148148148" />
+        <entry key="app/src/main/res/layout/roomcodedialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/simple_success_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/splash_screen.xml" value="0.2898148148148148" />
+        <entry key="app/src/main/res/layout/success_dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/viewpager_imageholder.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/wallet.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/winner_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/winner_page.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/withdraw_dialog.xml" value="0.2675213675213675" />
+        <entry key="app/src/main/res/menu/btoom_navigation_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/sikkaloncher.xml" value="0.1505" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/sikkaloncher_round.xml" value="0.1505" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
